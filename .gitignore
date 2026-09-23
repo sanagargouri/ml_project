@@ -1,0 +1,4 @@
+git init
+git add requirements.txt test_environment.py installed_packages.txt .gitignore
+git status
+
